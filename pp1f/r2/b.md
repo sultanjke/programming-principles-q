@@ -33,3 +33,7 @@ Print a single integer - the number of divisions by 2 until *N* becomes 0.
 
 ### Output
 5
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r2/b.cpp)

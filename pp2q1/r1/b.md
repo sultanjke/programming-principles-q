@@ -26,3 +26,7 @@ Print the result of a² + b².
 Square each number and add them:
 
 result = a \* a + b \* b
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r1/b.py)

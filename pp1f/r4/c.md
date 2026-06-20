@@ -25,3 +25,7 @@ helloworld
 
 ### Output
 helloworld
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r4/c.cpp)

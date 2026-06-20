@@ -25,3 +25,7 @@ Print the new elements of the array separated by a space.
 
 ### Output
 -54 -78
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r2/a.cpp)

@@ -25,3 +25,8 @@ Print a single integer - the number of temperature rises.
 
 ### Output
 0
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r4/b.cpp)

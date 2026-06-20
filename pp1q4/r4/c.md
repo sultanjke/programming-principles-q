@@ -21,3 +21,7 @@ Print the new array as a list of integers.
 - For the element 5 at index 0: $5 - 0 = $5.
 - For the element 10 at index 1: $10 - 1 = $9.
 - For the element 15 at index 2: $15 - 2 = $13
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r4/c.cpp)

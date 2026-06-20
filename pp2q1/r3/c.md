@@ -39,3 +39,8 @@ To solve this problem:
 
 Only the space character should be excluded.
 
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r3/c.py)

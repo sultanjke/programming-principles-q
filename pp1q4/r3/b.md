@@ -33,3 +33,7 @@ the quick brown fox jumps over the lazy dog
 
 ## Output
 tg
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r3/b.cpp)

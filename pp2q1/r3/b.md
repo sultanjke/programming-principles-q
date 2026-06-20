@@ -39,3 +39,8 @@ To solve this problem:
 4.  Count how many elements are equal to this first element.
 
 Time complexity should be O(n).
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r3/b.py)

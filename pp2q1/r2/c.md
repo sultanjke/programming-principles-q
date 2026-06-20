@@ -32,3 +32,8 @@ Print k numbers starting from n.
 ### Output
 
 1 2 3 4 5
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r2/c.py)

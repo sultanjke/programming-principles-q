@@ -30,3 +30,7 @@ Print a single integer - the smallest positive number or if none exists.
 
 ### Output
 3
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r4/b.cpp)

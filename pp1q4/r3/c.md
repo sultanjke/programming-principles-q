@@ -28,3 +28,7 @@ Print one integer - the difference between the maximum and minimum values (max -
 
 ### Output
 6
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r3/c.cpp)

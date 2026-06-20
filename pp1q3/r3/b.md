@@ -17,3 +17,8 @@ hello
 
 ### Output
 l
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r3/b.cpp)

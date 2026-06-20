@@ -27,3 +27,7 @@ passw0rd123!
 
 ### Output
 passw#rd###!
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r4/a.cpp)

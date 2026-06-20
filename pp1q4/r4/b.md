@@ -27,3 +27,8 @@ Print one integer - the total number of seconds.
 
 ### Output
 300
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r4/b.cpp)

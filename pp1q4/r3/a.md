@@ -29,3 +29,7 @@ Print two integers separated by a space:
 
 ### Output
 73 72
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r3/a.cpp)

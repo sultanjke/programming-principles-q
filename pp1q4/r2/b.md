@@ -33,3 +33,7 @@ Print two values on one line separated by a space: a^3, then root of b. Use the 
 ## Notes
 - b may not be a perfect square. Use appropriate data types to store the results.
 You can use the long long data type to store the result of a^3.
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r2/b.cpp)

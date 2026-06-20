@@ -17,3 +17,7 @@ Print a single integer - the number of elements greater than k.
 
 ### Output
 4
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r2/b.cpp)

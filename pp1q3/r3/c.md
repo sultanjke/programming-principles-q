@@ -19,3 +19,8 @@ a
 
 ## Notes
 - ASCII value of 'a' is 97. The string "hello" contains the characters: 'h' (104), 'e' (101), T' (108), I' (108), 'o' (111). All of these have ASCII values greater than 97, so the result is 5.
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r3/c.cpp)

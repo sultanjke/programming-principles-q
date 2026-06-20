@@ -29,3 +29,7 @@ A number x is divisible by c if:
 x % c == 0
 
 Check all numbers from a to b.
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r1/c.py)

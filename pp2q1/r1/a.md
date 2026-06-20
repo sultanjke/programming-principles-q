@@ -26,3 +26,7 @@ Print the average value.
 The average of three numbers is calculated as:
 
 average = (a + b + c) / 3
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r1/a.py)

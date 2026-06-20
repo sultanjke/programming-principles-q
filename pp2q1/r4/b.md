@@ -38,3 +38,7 @@ To solve the problem:
 1.  Iterate from 1 to n.\
 2.  Check if each number divides n without remainder.\
 3.  Count such numbers.
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r4/b.py)

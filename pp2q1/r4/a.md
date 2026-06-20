@@ -33,3 +33,8 @@ Age is calculated as:
 age = current_year − birth_year
 
 The result must be a non-negative integer.
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r4/a.py)

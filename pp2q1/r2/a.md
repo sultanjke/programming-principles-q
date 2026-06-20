@@ -39,3 +39,8 @@ Formula:
 
 total_seconds = d * 86400 + h * 3600 + m * 60 + s
 ```
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r2/a.py)

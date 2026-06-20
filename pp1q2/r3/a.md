@@ -18,3 +18,8 @@ Print one integer - the number of positions where all three arrays have equal el
 
 ### Output
 2
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q2/r3/a.cpp)

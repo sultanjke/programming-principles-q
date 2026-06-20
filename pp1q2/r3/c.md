@@ -15,3 +15,8 @@ Print the amount of digits of integer n.
 
 ### Output
 1
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q2/r3/c.cpp)

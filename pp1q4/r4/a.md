@@ -24,3 +24,7 @@ b h
 ### Output
 0 0
 No
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r4/a.cpp)

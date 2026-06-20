@@ -16,3 +16,8 @@ The first and the last even numbers, separated by a space.
 
 ### Output
 -26 -26
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r3/a.cpp)

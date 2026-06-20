@@ -47,3 +47,8 @@ To solve this problem:
 2.  Consider only numbers greater than 0.\
 3.  Keep track of the smallest positive number.\
 4.  If none are found, output -1.
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r4/c.py)

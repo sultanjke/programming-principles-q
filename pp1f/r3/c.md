@@ -27,3 +27,7 @@ aaaa
 
 ### Output
 0
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r3/c.cpp)

@@ -21,3 +21,7 @@ great
 
 ### Output
 KBTU is great
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r3/b.cpp)

@@ -25,3 +25,7 @@ Two vectors: The first vector contains all even numbers. The second vector conta
 ### Output
 10 20 30
 15 25 35
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r4/c.cpp)

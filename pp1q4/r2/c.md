@@ -7,3 +7,7 @@ A single non-empty string *s* (1 <= s.length() <= 100)
 
 ## Output format
 Print YES if the first character occurs at least twice; otherwise - NO. Then, separating by a space, print *k* - the number of character occurrences.
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q4/r2/c.cpp)

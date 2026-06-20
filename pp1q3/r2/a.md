@@ -15,3 +15,8 @@ abc-def-ghi
 
 ### Output
 abc def ghi
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r2/a.cpp)

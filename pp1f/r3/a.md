@@ -21,3 +21,7 @@ Print one integer - the sum of the numbers.
 
 ### Output
 -7
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1f/r3/a.cpp)

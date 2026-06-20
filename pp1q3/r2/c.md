@@ -16,3 +16,8 @@ Print the result of the exponentiation.
 ### Output
 8
 
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q3/r2/c.cpp)

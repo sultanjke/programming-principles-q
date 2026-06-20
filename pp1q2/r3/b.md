@@ -18,3 +18,8 @@ Print the transformed array (all elements separated by spaces).
 
 ### Output
 1 10 2 16 3
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp1q2/r3/b.cpp)

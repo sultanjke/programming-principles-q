@@ -49,3 +49,8 @@ Formula:
 total_seconds = d × 86400 + h × 3600 + m × 60 + s
 
 Use a 64-bit integer type to avoid overflow.
+
+
+## Solution
+
+[View solution](https://github.com/sultanjke/programming-principles-1Q/blob/main/pp2q1/r3/a.py)
