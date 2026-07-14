@@ -45,11 +45,6 @@ Archived solutions for Programming Principles at **Kazakh-British Technical Univ
 | PP2 | Q1 | r3 | [pp2q1/r3/](pp2q1/r3/) |
 | PP2 | Q1 | r4 | [pp2q1/r4/](pp2q1/r4/) |
 | PP2 | Q1 | r5 | [pp2q1/r5/](pp2q1/r5/) |
-| PP2 | Q2 | N/A | N/A |
-| PP2 | Q2 | N/A | N/A |
-| PP2 | Q2 | N/A | N/A |
-| PP2 | Q2 | N/A | N/A |
-| PP2 | Q2 | N/A | N/A |
 
 ## Structure & naming
 
